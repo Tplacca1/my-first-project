@@ -1,2 +1,3 @@
-# my-first-project
-This is my first project in GitHub
+# About my-first-project on GitHiub.
+GitHub Training.
+GitHub is challenging course.
